@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Work": "node hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-js-practice"
+  },
+  "author": "",
+  "license": "ISC"
+}
